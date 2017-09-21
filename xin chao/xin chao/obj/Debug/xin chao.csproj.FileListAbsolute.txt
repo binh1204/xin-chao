@@ -1,0 +1,10 @@
+C:\Users\Administrator\Documents\GitHub\contactsapp\xin-chao\xin chao\xin chao\bin\Debug\xin chao.exe.config
+C:\Users\Administrator\Documents\GitHub\contactsapp\xin-chao\xin chao\xin chao\bin\Debug\xin chao.exe
+C:\Users\Administrator\Documents\GitHub\contactsapp\xin-chao\xin chao\xin chao\bin\Debug\xin chao.pdb
+C:\Users\Administrator\Documents\GitHub\contactsapp\xin-chao\xin chao\xin chao\obj\Debug\xin chao.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\contactsapp\xin-chao\xin chao\xin chao\obj\Debug\xin_chao.Properties.Resources.resources
+C:\Users\Administrator\Documents\GitHub\contactsapp\xin-chao\xin chao\xin chao\obj\Debug\xin chao.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\GitHub\contactsapp\xin-chao\xin chao\xin chao\obj\Debug\xin chao.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\contactsapp\xin-chao\xin chao\xin chao\obj\Debug\xin chao.exe
+C:\Users\Administrator\Documents\GitHub\contactsapp\xin-chao\xin chao\xin chao\obj\Debug\xin chao.pdb
+C:\Users\Administrator\Documents\GitHub\contactsapp\xin-chao\xin chao\xin chao\obj\Debug\xin_chao.frmxinchao.resources
